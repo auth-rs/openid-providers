@@ -1,0 +1,18 @@
+[package]
+name = "openid-providers"
+version = "0.1.0"
+authors = ["Alexander Korolev <alexander.korolev.germany@gmail.com>"]
+edition = "2021"
+categories = []
+description = """
+openid-providers description.
+"""
+homepage = "https://github.com/auth-rs/openid-providers"
+keywords = []
+license = "Unlicense OR MIT"
+readme = "README.md"
+repository = "https://github.com/kilork/openid-providers"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
